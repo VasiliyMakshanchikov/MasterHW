@@ -1,0 +1,51 @@
+10000000 steps
+1 processes
+Difference from true Pi: 0.0000000000000622
+Computation time per iteration: 1.4191764116 sec
+2 processes
+Difference from true Pi: 0.0000000000001918
+Computation time per iteration: 0.7239393950 sec
+4 processes
+Difference from true Pi: 0.0000000000001066
+Computation time per iteration: 0.3679730177 sec
+8 processes
+Difference from true Pi: 0.0000000000000138
+Computation time per iteration: 0.1933062077 sec
+16 processes
+Difference from true Pi: 0.0000000000000004
+Computation time per iteration: 0.0994165897 sec
+----------------------------------------------------
+100000000 steps
+1 processes
+Difference from true Pi: 0.0000000000006333
+Computation time per iteration: 14.1972426891 sec
+2 processes
+Difference from true Pi: 0.0000000000002292
+Computation time per iteration: 7.2164047003 sec
+4 processes
+Difference from true Pi: 0.0000000000004237
+Computation time per iteration: 3.6637471914 sec
+8 processes
+Difference from true Pi: 0.0000000000001794
+Computation time per iteration: 1.9016377926 sec
+16 processes
+Difference from true Pi: 0.0000000000000182
+Computation time per iteration: 0.9538792133 sec
+----------------------------------------------------
+1000000000 steps
+1 processes
+Difference from true Pi: 0.0000000000001776
+Computation time per iteration: 143.6711802959 sec
+2 processes
+Difference from true Pi: 0.0000000000002141
+Computation time per iteration: 72.3480899811 sec
+4 processes
+Difference from true Pi: 0.0000000000000249
+Computation time per iteration: 36.5444550037 sec
+8 processes
+Difference from true Pi: 0.0000000000000346
+Computation time per iteration: 19.0639732122 sec
+16 processes
+Difference from true Pi: 0.0000000000000520
+Computation time per iteration: 9.4443212986 sec
+----------------------------------------------------
